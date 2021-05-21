@@ -1,0 +1,29 @@
+*{
+	margin: 5px;
+	padding: 0;
+}
+.content{
+	border: 1px solid black;
+	width: 500px;
+	height: 300px;
+}
+.head_img{
+	height: 60px;
+	width: 60px;
+}
+textarea{
+	height: 150px;
+	width: 487px;
+}
+input{
+	height: 30px;
+	width: 60px;
+	margin-left: 5px; 	
+}
+.time{
+	float:right; 
+}
+.con_img{
+	height: 30px;
+	width: 30px;
+}
